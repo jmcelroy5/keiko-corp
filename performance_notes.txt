@@ -1,0 +1,35 @@
+Speed results
+=============
+
+Beginning: Page speed test
+https://www.webpagetest.org/
+
+Load time: 2.88s
+First byte: 0.171s
+Start render: 0.8s
+First contentful paint: 0.854s
+Speed Index: 2.060s
+Last Painted hero: 3s
+Document complete time: 2.88s
+Requests: 46
+Bytes in: 1456KB
+Fully loaded: 2.987s
+
+Beginning: Google insights
+https://developers.google.com/speed/pagespeed/insights/
+
+Overall score: 89
+First Contentful paint: 3.3s
+Speed index: 3.3s
+Time to interactive: 3.3s
+First Meaningful paint: 3.3s
+
+1) Consolidate CSS files
+
+Overall score: 94
+
+Overall score: 89
+First Contentful paint: 1.9s
+Speed index: 2s
+Time to interactive: 3.4s
+First Meaningful paint: 3.3s
